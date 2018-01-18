@@ -14,3 +14,6 @@ The suggested format for listing a group is
 ## Funding
 
 The [R Consortium](https://www.r-consortium.org/projects/r-user-group-support-program) provides funding for local useR groups.
+
+### Bangladesh
+* RXperts: [RXperts](https://rxperts.github.io/); [\@RXperts](https://twitter.com/RXperts)
